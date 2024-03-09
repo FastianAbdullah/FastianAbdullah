@@ -3,11 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/abdulla88914201" target="blank"><img src="https://img.shields.io/twitter/follow/abdulla88914201?logo=twitter&style=for-the-badge" alt="abdulla88914201" /></a> </p>
 
-- 🌱 I’m currently working on **Deep Fake Audio Detection Project - Developing algorithms to detect deep fake audio using machine learning techniques.**
+- 🎓 Currently pursuing a BSCS degree at FAST NUCES Lahore, to further my knowledge and skills in computer science.
+
+- 🌱 I’m currently working on Deep Fake Audio Detection Project - Developing algorithms to detect deep fake audio using machine learning techniques.
+  
+- 🌐 Full-stack developer Skilled in HTML, CSS, Bootstrap, Laravel and various databases including SQL nd MySQL.
+
+- 🎮 Game Developer with Unity and C# Proficient in game development using Unity and C#. Experienced in creating interactive and immersive gaming experiences, implementing game mechanics and optimizing performance for various platforms.
+
+- 🤖 AI / ML Enthusiast Passionate about AI/ML technologies, with experience in TensorFlow, PyTorch, Pandas, Scikit-learn, and other Python libraries for machine learning and data analysis.
+
+- 💬 Ask me about Laravel, Unity, AI/ML.
 
 - Connect with me and explore my projects. [https://www.linkedin.com/in/m-abdullah-33a780217/](https://www.linkedin.com/in/m-abdullah-33a780217/)
-
-- 💬 Ask me about **Laravel, Unity, AI/ML.**
 
 - 📫 How to reach me [abdullahshoukat662@gmail.com](abdullahshoukat662@gmail.com)
 
