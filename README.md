@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on Deep Fake Audio Detection Project - Developing algorithms to detect deep fake audio using machine learning techniques.
   
-- 🌐 Full-stack developer Skilled in HTML, CSS, Bootstrap, Laravel and various databases including SQL nd MySQL.
+- 🌐 Full-stack developer Skilled in HTML, CSS, Bootstrap, Javascript,  Laravel Framework and various databases including SQL nd MySQL.
 
 - 🎮 Game Developer with Unity and C# Proficient in game development using Unity and C#. Experienced in creating interactive and immersive gaming experiences, implementing game mechanics and optimizing performance for various platforms.
 
