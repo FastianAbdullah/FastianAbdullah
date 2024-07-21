@@ -5,30 +5,26 @@
 
 - 🎓 Currently pursuing a BSCS degree at FAST NUCES Lahore, to further my knowledge and skills in computer science.
 
-- 🌱 I’m currently working on Deep Fake Audio Detection Project - Developing algorithms to detect deep fake audio using machine learning techniques.
+- 🌱 I’m currently working on my own LLMs to explore the world of LLMs, Transformers and GenAI, working on RAG based Agenetic Development @DisruptiveAI.
   
-- 🌐 Full-stack developer Skilled in HTML, CSS, Bootstrap, Javascript,  Laravel Framework and various databases including SQL nd MySQL.
+- 🌐 Full-stack developer Skilled in HTML, CSS, Bootstrap, Javascript,  Laravel Framework and various databases including SQL and MYSQL.
 
 - 🎮 Game Developer with Unity and C# Proficient in game development using Unity and C#. Experienced in creating interactive and immersive gaming experiences, implementing game mechanics and optimizing performance for various platforms.
 
-- 🤖 AI / ML Enthusiast Passionate about AI/ML technologies, with experience in TensorFlow, PyTorch, Pandas, Scikit-learn, and other Python libraries for machine learning and data analysis.
+- 🤖 GenAI / ML Enthusiast Passionate about AI/ML technologies, LLMs, with experience in Langchain, ChromaDB, TensorFlow, PyTorch, Pandas, Scikit-learn, and other Python libraries for machine learning and data analysis.
 
-- 💬 Ask me about Laravel, Unity, AI/ML.
+- 💬 Ask me about Laravel, Unity, GenAI/ML.
 
 - Connect with me and explore my projects. [https://www.linkedin.com/in/m-abdullah-33a780217/](https://www.linkedin.com/in/m-abdullah-33a780217/)
 
 - 📫 How to reach me [abdullahshoukat662@gmail.com](abdullahshoukat662@gmail.com)
-
-- ⚡ Fun fact **I once created a Laravel-powered website to predict the outcome of video game matches using AI algorithms. It turned out the AI was better at predicting the winners than I was at playing the games myself!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdulla88914201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulla88914201" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/m-abdullah-33a780217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-abdullah-33a780217" height="30" width="40" /></a>
 <a href="https://kaggle.com/mbdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mbdullah" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100010808140011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010808140011" height="30" width="40" /></a>
 <a href="https://instagram.com/m.4bdul1ah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.4bdul1ah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdullahshoukat662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullahshoukat662" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
