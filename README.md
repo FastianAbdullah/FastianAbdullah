@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abdullah</h1>
-<h3 align="center">Proficient Developer skilled in software development lifecycle.</h3>
+<h3 align="center">AI/ML Engineer skilled in software development lifecycle.</h3>
 
 <p align="left"> <a href="https://twitter.com/abdulla88914201" target="blank"><img src="https://img.shields.io/twitter/follow/abdulla88914201?logo=twitter&style=for-the-badge" alt="abdulla88914201" /></a> </p>
 
-- 🎓 Currently pursuing a BSCS degree at FAST NUCES Lahore, to further my knowledge and skills in computer science.
+- 🎓 Graduated with a BSCS degree at FAST NUCES Lahore, to further my knowledge and skills in computer science.
 
-- 🌱 I’m currently working on my own LLMs to explore the world of LLMs, Transformers and GenAI, working on RAG based Agenetic Development @DisruptiveAI.
+- 🌱 I’m currently working on vision problems and finetuning LLMs, and GenAI, working on RAG based Agenetic Development @FoxTek.
   
-- 🌐 Full-stack developer Skilled in HTML, CSS, Bootstrap, Javascript,  Laravel Framework and various databases including SQL and MYSQL.
+- 🌐 Full-stack developer skilled in NEXT, REACT and Laravel Framework and various databases including SQL and MYSQL.
 
 - 🎮 Game Developer with Unity and C# Proficient in game development using Unity and C#. Experienced in creating interactive and immersive gaming experiences, implementing game mechanics and optimizing performance for various platforms.
 
-- 🤖 GenAI / ML Enthusiast Passionate about AI/ML technologies, LLMs, with experience in Langchain, ChromaDB, TensorFlow, PyTorch, Pandas, Scikit-learn, and other Python libraries for machine learning and data analysis.
+- 🤖 GenAI / ML Researcher passionate about AI/ML technologies, LLMs, with experience in Langchain, ChromaDB, TensorFlow, PyTorch, Pandas, Scikit-learn, and other Python libraries for machine learning and data analysis.
 
 - 💬 Ask me about Laravel, Unity, GenAI/ML.
 
